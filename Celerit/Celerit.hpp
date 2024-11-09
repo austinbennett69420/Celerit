@@ -1,6 +1,6 @@
 #ifndef CELERIT
 //version number
-#define CELERIT "0.0.1"
+#define CELERIT "1.0.0"
 
 //include libs and things
 #include "util.hpp"
